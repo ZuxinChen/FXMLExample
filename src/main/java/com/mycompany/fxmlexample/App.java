@@ -9,6 +9,8 @@ import javafx.stage.Stage;
 
 /**
  * JavaFX FXMLExample
+ * ZuXin Chen
+ * CSC211
  */
 public class App extends Application {
 
