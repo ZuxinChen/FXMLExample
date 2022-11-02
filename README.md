@@ -8,3 +8,5 @@ This program using the javaFX FXML to create a user interface. It is create by t
 *fxml_example.fxml* sets detail of the scene, including the label , button and text.
 
 *login.css* decorates the interface that sets blackground, color, size and font of text.
+
+Here is (output)[fxmlexample.png]
