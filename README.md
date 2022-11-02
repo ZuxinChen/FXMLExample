@@ -1,6 +1,7 @@
 # FXMLExample
 This program using the javaFX FXML to create a user interface. It is create by these methods.
-   App is main class that set the a scene and assign the scene into the stage. 
+  
+  App is main class that set the a scene and assign the scene into the stage. 
 
   FXMLExampleController class display the text when the button is press. 
 
